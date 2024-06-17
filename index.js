@@ -7,5 +7,9 @@ function logout() {
     console.log('logout');
 }
 function fixBugA(){
-    console.log('logout');
+    console.log('fixBugA');
+}
+
+function fixBugB(){
+    console.log('fixBugB');
 }
