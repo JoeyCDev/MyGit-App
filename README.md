@@ -1,3 +1,4 @@
-## Gitê³¼ GitHub ìµíˆê¸°
+## Gitê³? GitHub ?µ?ˆê¸?
 * git init
 * git add
+* git commit -m
