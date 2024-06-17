@@ -1,6 +1,6 @@
-//index.html ì„ ìœ„í•œ js file
+//index.html ?„ ?œ„?•œ js file
 function login(username) {
-    console.log(username);
+    console.log("·Î±×ÀÎ ¸Ş½ÃÁö" + username);
 };
 
 function logout() {
