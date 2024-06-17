@@ -18,3 +18,7 @@ function fixBugA(){
 function fixBugB(){
     console.log('fixBugB');
 }
+
+function main1() {
+    
+}
