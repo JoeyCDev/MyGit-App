@@ -26,3 +26,9 @@ function main1() {
 function main2() {
     
 }
+
+function log(msg) {
+    if(msg){
+        console.log('>>>' + msg) + '<<<<';
+    }
+}
